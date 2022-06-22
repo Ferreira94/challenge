@@ -1,8 +1,4 @@
 <p align="center">
-   <img src="./public/images/logo.svg" alt="To Do" width="280"/>
-</p>
-
-<p align="center">
    <a href="https://www.linkedin.com/in/luciano-ferreira-b302b61a7/">
       <img alt="Luciano Ferreira" src="https://img.shields.io/badge/-Luciano Ferreira-E3E627?style=flat&logo=Linkedin&logoColor=black" />
    </a>
@@ -10,14 +6,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-E3E627">
 </p>
 
-> O projeto consiste em um blog para testar e colocar em prática algumas tecnologias.
-
-## Fotos
-
-<div>
-   <img src="./public/images/home.svg" width="400px" />
-   <img src="./public/images/characters.svg" width="400px" />
-</div>
+> A aplicação consiste em uma simulação onde uma minhoca se encontra em um buraco e ela irá sair do buraco conforme os dados informados abaixo, clique em calcular e confira os resultados!
 
 ## 💻 Tecnologias
 
@@ -26,22 +15,21 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Chakra](https://chakra-ui.com/)
-- [Prismic](https://prismic.io/)
 
 ## 🛠️ Executando
 
 ```bash
 # Clone o Repositório
-$ https://github.com/Ferreira94/Blog.Star.git
+$ https://github.com/Ferreira94/challenge.git
 ```
 
 ```bash
-# Baixe as dependendências
+# Entre na pasta do projeto e baixe as dependendências
 $ yarn install
 ```
 
 ```bash
-# Execute
+# Execute o projeto
 $ yarn dev
 ```
 

@@ -33,7 +33,7 @@ export default function Result() {
         bgColor="pGray.700"
         borderRadius="5"
         p="5"
-        mt="-10"
+        mt="-7"
         mx="auto"
         textAlign="center"
       >
@@ -45,7 +45,7 @@ export default function Result() {
           width={isWideVersionMd ? 600 : 300}
           height={300}
           data={data}
-          margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
+          margin={{ top: 5, right: 40, left: 0, bottom: 5 }}
         >
           <Line
             type="monotone"
